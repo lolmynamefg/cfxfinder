@@ -1,4 +1,4 @@
-# Snakecord
+# CfxFinder
 
 I'm sure you have heard of fivem before, if you haven't then why the hell are you here, this bot can show you the ip address and a bunch of info only using the cfx-ip.
 
